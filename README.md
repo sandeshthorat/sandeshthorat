@@ -1,9 +1,6 @@
 Hi 👋 My name is Sandesh Thorat
 ===============================
 
-Software Engineer
------------------
-
 Hi, I'm a passionate front-end developer who enjoys creating beautiful and functional user experiences.
 
 * 🌍  I'm based in India
