@@ -1,4 +1,4 @@
-Hi 👋 My name is Sandesh Thorat
+Hi 👋 I'm Sandesh Thorat
 ===============================
 
 Hi, I'm a passionate front-end developer who enjoys creating beautiful and functional user experiences.
